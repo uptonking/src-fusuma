@@ -2,16 +2,6 @@
   "name": "fusuma",
   "version": "2.8.4",
   "description": "easily make slides with markdown",
-  "bin": {
-    "fusuma": "./src/cli/index.js"
-  },
-  "publishConfig": {
-    "access": "public"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/hiroppy/fusuma.git"
-  },
   "keywords": [
     "slide",
     "markdown",
@@ -21,12 +11,19 @@
     "react",
     "github pages"
   ],
-  "author": "hiroppy <git@hiroppy.me> (https://hiroppy.me)",
-  "license": "MIT",
+  "homepage": "https://github.com/hiroppy/fusuma#readme",
   "bugs": {
     "url": "https://github.com/hiroppy/fusuma/issues"
   },
-  "homepage": "https://github.com/hiroppy/fusuma#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiroppy/fusuma.git"
+  },
+  "license": "MIT",
+  "author": "hiroppy <git@hiroppy.me> (https://hiroppy.me)",
+  "bin": {
+    "fusuma": "./src/cli/index.js"
+  },
   "dependencies": {
     "@babel/core": "^7.14.8",
     "@babel/preset-env": "^7.14.9",
@@ -50,6 +47,7 @@
     "git-remote-origin-url": "^3.1.0",
     "html-webpack-plugin": "^5.3.2",
     "js-yaml": "^4.1.0",
+    "mermaid": "^8.13.7",
     "mini-css-extract-plugin": "^1.6.2",
     "open": "^8.0.9",
     "ora": "^5.4.1",
@@ -73,5 +71,8 @@
     "webpack-dev-middleware": "^4.2.0",
     "webpack-hot-middleware": "^2.25.1",
     "webpack-merge": "^5.7.3"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }

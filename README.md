@@ -26,6 +26,9 @@
 - Customizable JavaScript and CSS
 - A sidebar having agenda and some features
 
+- 使用注意
+  - 若要得到 pdf，需要依次执行 npm run build , npm run pdf
+
 ## Modes
 
 - Init Mode

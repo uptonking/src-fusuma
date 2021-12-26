@@ -1,0 +1,14 @@
+meta:
+  url: https://hiroppy.github.io/fusuma/plain/
+  title: yaoo-转正答辩
+  description: ppt for beging a regular staff
+  siteName: yaoo
+slide:
+  loop: false
+  ui:
+    # sidebar: true
+    pagination: # bullets | progressbar | fraction
+    effect: # fade | cube | flip
+  code:
+    plugins: []
+    theme: default

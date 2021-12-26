@@ -84,7 +84,8 @@ dd,
 table,
 textarea,
 label {
-  line-height: 3.2rem;
+  /* line-height: 3.2rem; */
+  line-height: 4.2rem;
 }
 
 li,

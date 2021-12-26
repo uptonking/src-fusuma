@@ -10,5 +10,8 @@
     "pdf": "fusuma pdf"
   },
   "author": "hiroppy <git@hiroppy.me> (https://hiroppy.me)",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "fusuma": "2.8.4"
+  }
 }

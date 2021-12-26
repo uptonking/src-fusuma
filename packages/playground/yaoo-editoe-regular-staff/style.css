@@ -1,0 +1,21 @@
+/* themes */
+/* If nothing is loaded, the default theme will be applied. */
+/* @import '@fusuma/client/assets/style/themes/pop.css'; */
+/* @import '@fusuma/client/assets/style/themes/babel.css'; */
+/* @import '@fusuma/client/assets/style/themes/webpack.css'; */
+/* @import '@fusuma/client/assets/style/themes/node.css'; */
+
+/* the default variables */
+/* TODO: add the url */
+/* :root { */
+/* --base-font-size: 62.5%; */
+/* --base-font-weight: 300; */
+/* --code-font-size: 1.8rem; */
+/* } */
+
+.title {
+}
+
+/* https://hiroppy.github.io/fusuma/docs/guides/slide-syntax#declaring-section-title */
+.section-title {
+}
